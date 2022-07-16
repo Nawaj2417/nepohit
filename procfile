@@ -1,0 +1,1 @@
+web gunicorn nepohits.wsgi:application --log-file -
